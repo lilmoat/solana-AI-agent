@@ -61,7 +61,7 @@ cp .env.example .env
 # Add your API keys and configuration
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 Create a `.env` file with:
 
@@ -73,7 +73,7 @@ TWITTER_API_KEY=your_twitter_api_key
 DISCORD_TOKEN=your_discord_token
 ```
 
-## 🚀 Usage
+## Usage
 
 ```bash
 # Start the agent
@@ -86,7 +86,7 @@ npm run dev
 npm test
 ```
 
-## 💡 Commands
+## Commands
 
 ### Discord Commands
 - `!price` - Get current token price
