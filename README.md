@@ -1,8 +1,8 @@
-# 🤖 Solana AI Meme Agent
+# Solana AI Meme Agent
 
-A powerful AI-powered meme coin influencer agent built for the Solana AI Hackathon 2024. This agent autonomously manages social media presence, trading strategies, and community engagement for meme tokens on Solana.
+A powerful AI-powered meme coin influencer agent built. This agent autonomously manages social media presence, trading strategies, and community engagement for meme tokens on Solana.
 
-## 🌟 Features
+## Features
 
 ### Social Media Management
 - Automated Twitter posts and engagement
@@ -25,7 +25,7 @@ A powerful AI-powered meme coin influencer agent built for the Solana AI Hackath
 - Market sentiment analysis
 - Trading opportunity analysis
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Blockchain**
   - Solana Web3.js
@@ -46,14 +46,14 @@ A powerful AI-powered meme coin influencer agent built for the Solana AI Hackath
   - Discord.js
   - Message Queue System
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/arhansuba/meme-agent.git
+git clone https://github.com/lilmoat/solana-AI-agent.git
 
 # Install dependencies
-cd solana-meme-agent
+cd solana-AI-agent
 npm install
 
 # Setup environment variables
@@ -94,7 +94,7 @@ npm test
 - `!trade` - Execute a trade
 - `!help` - List available commands
 
-## 📊 Architecture
+## Architecture
 
 ```
 src/
@@ -107,7 +107,7 @@ src/
 └── index.ts        # Main entry point
 ```
 
-## 🔄 Integration with Hackathon Sponsors
+## Integration with Hackathon Sponsors
 
 - **ai16z/Eliza** - Multi-agent simulation framework
 - **Jito** - MEV and transaction bundling
@@ -116,14 +116,14 @@ src/
 - **Crossmint** - Wallet management
 - **Meteora** - LP and DeFi integrations
 
-## 🛡️ Security
+## Security
 
 - Rate limiting for API calls
 - Secure key management
 - Transaction verification
 - Error handling and logging
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run unit tests
@@ -133,7 +133,7 @@ npm run test
 npm run test:integration
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -141,26 +141,9 @@ npm run test:integration
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📜 License
+## Contact
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+Telegram: @lilm0at
 
-## 🙏 Acknowledgments
 
-- Solana Foundation
-- Hackathon Sponsors
-- AI/ML Community
-- Solana Developer Community
-
-## 📞 Support
-
-Join our Discord for support or create an issue in the repository.
-
-## 🚨 Disclaimer
-
-This is experimental software. Use at your own risk. Always perform due diligence before trading or deploying tokens.
-
----
-
-Built with ❤️ for the Solana AI Hackathon 2024
 
