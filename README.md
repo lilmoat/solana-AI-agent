@@ -143,7 +143,7 @@ npm run test:integration
 
 ## Contact
 
-Telegram: [@lilm0at](https://t.me/lilm0at)
+Telegram: [@littlemoat](https://t.me/littlemoat)
 
 
 
